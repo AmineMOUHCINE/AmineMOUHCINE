@@ -1,6 +1,6 @@
 # Hi, I'm Amine Mouhcine 
 
-### Data Engineering Technician | Data Science & AI | Web Development 
+### Data Engineering Technician | Data Science & AI | Web Development | Cybersecurity
 
 I am a **Data Engineering Technician** currently pursuing a **Bachelor's Degree in Data Science**.
 
@@ -10,7 +10,7 @@ I enjoy designing and developing practical solutions that transform data into us
 
 ---
 
-## Education
+## 🎓 Education
 
 ### DUT — Data Engineering
 
@@ -37,7 +37,7 @@ Academic training focused on:
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
 ### Programming
 
@@ -47,7 +47,7 @@ Academic training focused on:
 - CSS3
 - JavaScript
 
-### Data & Artificial Intelligence
+### 📊 Data & Artificial Intelligence
 
 - Data Analysis
 - Machine Learning
@@ -58,7 +58,7 @@ Academic training focused on:
 - Classification
 - Scoring and Segmentation
 
-### Web Development
+### 🌐 Web Development
 
 - Flask
 - REST APIs
@@ -68,14 +68,14 @@ Academic training focused on:
 - MySQL
 - Web Applications
 
-### Cybersecurity
+### 🔐 Cybersecurity
 
 - Phishing Detection
 - Suspicious Message Analysis
 - Cybersecurity Fundamentals
 - Machine Learning for Cybersecurity
 
-### Libraries & Tools
+### 🛠️ Libraries & Tools
 
 - Pandas
 - NumPy
@@ -88,7 +88,7 @@ Academic training focused on:
 
 ---
 
-## Professional Experience & Internships
+## 💼 Professional Experience & Internships
 
 ### Web Development Intern
 
@@ -163,7 +163,7 @@ The results from the different analysis modules are combined through a segmentat
 - Automated email campaigns
 - Delay management between email sends
 
-#### Results
+#### 📈 Results
 
 - **F1-score: 82%**
 - **Conversion rate: 18%**, compared with 10% historically using the manual approach
@@ -175,13 +175,13 @@ The results from the different analysis modules are combined through a segmentat
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### NeuroSentiment — Sentiment Analysis Platform
+## NeuroSentiment — Sentiment Analysis Platform
 
 **NeuroSentiment** is an NLP platform designed to automatically analyze opinions and textual data from multiple sources.
 
-#### Key Features
+### Key Features
 
 - Text sentiment analysis
 - PDF analysis
@@ -191,19 +191,25 @@ The results from the different analysis modules are combined through a segmentat
 - Data visualization
 - Web-based analysis interface
 
+### Project Preview
+
+![NeuroSentiment Dashboard](images/neurosentiment-dashboard.png)
+
+![NeuroSentiment Analysis](images/neurosentiment-analysis.png)
+
 **Technologies:**
 
 `Python` `Flask` `NLP` `Transformers` `Sentence-BERT` `Machine Learning` `HTML5` `CSS3` `JavaScript` `Plotly`
 
 ---
 
-### DeepShield — Phishing Detection
+## DeepShield — Phishing Detection
 
 **DeepShield** is a cybersecurity solution developed as part of the **Cybersecurity Hackathon 2026**.
 
 The project focuses on analyzing suspicious messages, particularly messages written in **Darija / Arabizi**, in order to identify potential phishing risks.
 
-#### Key Features
+### Key Features
 
 - Phishing message detection
 - Message content analysis
@@ -214,17 +220,23 @@ The project focuses on analyzing suspicious messages, particularly messages writ
 **Achievement:**  
 **3rd Prize — Cybersecurity Hackathon 2026**
 
+### Project Preview
+
+![DeepShield Interface](images/deepshield-interface.png)
+
+![DeepShield Analysis](images/deepshield-analysis.png)
+
 **Technologies:**
 
 `Python` `Machine Learning` `NLP` `Cybersecurity`
 
 ---
 
-### Kinetic Petroleum — Web Management & Invoicing Application
+## Kinetic Petroleum — Web Management & Invoicing Application
 
 A Web application developed to digitalize and centralize the management of sales, invoices, customers, and inventory for a petroleum products company.
 
-#### Key Features
+### Key Features
 
 - Professional bilingual French/Arabic invoices
 - Automatic invoice generation
@@ -238,13 +250,21 @@ A Web application developed to digitalize and centralize the management of sales
 
 **Role:** Full Stack Developer
 
+### Project Preview
+
+![Kinetic Petroleum Dashboard](images/kinetic-dashboard.png)
+
+![Kinetic Petroleum Invoice](images/kinetic-invoice.png)
+
+![Kinetic Petroleum Stock](images/kinetic-stock.png)
+
 **Technologies:**
 
 `Python` `Flask` `MySQL` `HTML5` `CSS3` `JavaScript` `Bcrypt`
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 - **3rd Prize — Cybersecurity Hackathon 2026**
 - **DUT in Data Engineering**
@@ -254,7 +274,7 @@ A Web application developed to digitalize and centralize the management of sales
 
 ---
 
-## Areas of Interest
+## 🎯 Areas of Interest
 
 - Data Engineering
 - Data Science
@@ -269,7 +289,7 @@ A Web application developed to digitalize and centralize the management of sales
 
 ---
 
-## Contact
+## 📫 Contact
 
 - **LinkedIn:** [Amine Mouhcine](https://www.linkedin.com/in/amine-mouhcine-29453a405/)
 - **Email:** aminemohcine379@gmail.com
