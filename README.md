@@ -1,6 +1,6 @@
 # Hi, I'm Amine MOUHCINE 
 
-### Data Engineering Technician | Data Science & AI | Web Development | Cybersecurity
+### Data Engineering Technician | Data Science & AI | Web Development 
 
 I am a **Data Engineering Technician** currently pursuing a **Bachelor's Degree in Data Science**.
 
