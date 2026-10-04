@@ -1,4 +1,4 @@
-# Hi, I'm Amine Mouhcine 👋
+# Hi, I'm Amine Mouhcine 
 
 ### Data Engineering Technician | Data Science & AI | Web Development | Cybersecurity
 
@@ -10,7 +10,7 @@ I enjoy transforming ideas and data into useful, reliable and user-oriented appl
 
 ---
 
-## 🎓 Education
+##  Education
 
 - **DUT — Data Engineering**
   - Data Engineering & Data Technologies
@@ -22,7 +22,7 @@ I enjoy transforming ideas and data into useful, reliable and user-oriented appl
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 ### Programming
 - Python
@@ -63,9 +63,9 @@ I enjoy transforming ideas and data into useful, reliable and user-oriented appl
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 NeuroSentiment — NLP & Sentiment Analysis
+###  NeuroSentiment — NLP & Sentiment Analysis
 
 An NLP platform designed to automatically analyze opinions and textual data from different sources.
 
@@ -82,7 +82,7 @@ An NLP platform designed to automatically analyze opinions and textual data from
 
 ---
 
-### 🛡️ DeepShield — Cybersecurity & Machine Learning
+###  DeepShield — Cybersecurity & Machine Learning
 
 A cybersecurity solution developed for the **Cybersecurity Hackathon 2026**.
 
@@ -95,14 +95,14 @@ The project focuses on detecting suspicious and phishing messages, particularly 
 - Explanation of detected risks
 - Machine Learning-based analysis
 
-🏆 **3rd Prize — Cybersecurity Hackathon 2026**
+ **3rd Prize — Cybersecurity Hackathon 2026**
 
 **Technologies:**  
 `Python` `Machine Learning` `NLP` `Cybersecurity`
 
 ---
 
-### 💼 Kinetic Petroleum — Web Management & Invoicing Application
+###  Kinetic Petroleum — Web Management & Invoicing Application
 
 A professional web application developed to digitalize and centralize the management of sales, invoices, customers and stock for a petroleum products company.
 
@@ -124,16 +124,16 @@ A professional web application developed to digitalize and centralize the manage
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥉 **3rd Prize — Cybersecurity Hackathon 2026**
-- 🎓 **DUT in Data Engineering**
-- 📊 Currently pursuing a **Bachelor's Degree in Data Science**
-- 🚀 Developed projects combining **Data, AI, Web Development and Cybersecurity**
+-  **3rd Prize — Cybersecurity Hackathon 2026**
+-  **DUT in Data Engineering**
+-  Currently pursuing a **Bachelor's Degree in Data Science**
+-  Developed projects combining **Data, AI, Web Development and Cybersecurity**
 
 ---
 
-## 📊 Areas of Interest
+##  Areas of Interest
 
 - Data Engineering
 - Data Science
@@ -147,12 +147,12 @@ A professional web application developed to digitalize and centralize the manage
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-- 💼 **LinkedIn:** [Amine Mouhcine](https://www.linkedin.com/in/amine-mouhcine-29453a405/)
-- 📧 **Email:** aminemohcine379@gmail.com
-- 💻 **GitHub:** [AmineMOUHCINE](https://github.com/AmineMOUHCINE)
+-  **LinkedIn:** [Amine Mouhcine](https://www.linkedin.com/in/amine-mouhcine-29453a405/)
+-  **Email:** aminemohcine379@gmail.com
+-  **GitHub:** [AmineMOUHCINE](https://github.com/AmineMOUHCINE)
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+ Feel free to explore my repositories and projects.
