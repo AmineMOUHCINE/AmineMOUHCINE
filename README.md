@@ -1,4 +1,4 @@
-# Hi, I'm Amine Mouhcine 
+# Hi, I'm Amine MOUHCINE 
 
 ### Data Engineering Technician | Data Science & AI | Web Development | Cybersecurity
 
