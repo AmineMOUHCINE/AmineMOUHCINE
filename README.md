@@ -220,10 +220,9 @@ The project focuses on analyzing suspicious messages, particularly messages writ
 **3rd Prize — Cybersecurity Hackathon 2026**
 
 ### Project Preview
-
+![DeepShield Analysis](Hackathon.png)
 ![DeepShield Interface](deepshield-interface.png)
 
-![DeepShield Analysis](deepshield-analysis.png)
 
 **Technologies:**
 
