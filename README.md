@@ -252,13 +252,14 @@ A Web application developed to digitalize and centralize the management of sales
 
 ### Project Preview
 
-**Kinetic Dashboard :**
+**Kinetic Login :**
+
+![Kinetic Invoice](kinetic-invoice.png)
+
+**Kinetic Facture :**
 
 ![Kinetic Dashboard](kinetic-dashboard.png)
 
-**Kinetic Invoice :**
-
-![Kinetic Invoice](kinetic-invoice.png)
 
 **Kinetic Stock :**
 
