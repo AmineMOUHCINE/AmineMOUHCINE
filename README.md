@@ -219,8 +219,10 @@ The project focuses on analyzing suspicious messages, particularly messages writ
 **Achievement:**  
 **3rd Prize — Cybersecurity Hackathon 2026**
 
-### Project Preview
 ![DeepShield Analysis](Hackathon.png)
+
+### Project Preview
+
 ![DeepShield Interface](deepshield-interface.png)
 
 
@@ -250,9 +252,15 @@ A Web application developed to digitalize and centralize the management of sales
 
 ### Project Preview
 
+**Kinetic Dashboard :**
+
 ![Kinetic Dashboard](kinetic-dashboard.png)
 
+**Kinetic Invoice :**
+
 ![Kinetic Invoice](kinetic-invoice.png)
+
+**Kinetic Stock :**
 
 ![Kinetic Stock](kinetic-stock.png)
 
