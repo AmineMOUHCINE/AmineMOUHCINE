@@ -222,9 +222,9 @@ The project focuses on analyzing suspicious messages, particularly messages writ
 
 ### Project Preview
 
-![DeepShield Interface](images/deepshield-interface.png)
+![DeepShield Interface](deepshield-interface.png)
 
-![DeepShield Analysis](images/deepshield-analysis.png)
+![DeepShield Analysis](deepshield-analysis.png)
 
 **Technologies:**
 
@@ -252,11 +252,11 @@ A Web application developed to digitalize and centralize the management of sales
 
 ### Project Preview
 
-![Kinetic Petroleum Dashboard](images/kinetic-dashboard.png)
+![Kinetic Dashboard](kinetic-dashboard.png)
 
-![Kinetic Petroleum Invoice](images/kinetic-invoice.png)
+![Kinetic Invoice](kinetic-invoice.png)
 
-![Kinetic Petroleum Stock](images/kinetic-stock.png)
+![Kinetic Stock](kinetic-stock.png)
 
 **Technologies:**
 
