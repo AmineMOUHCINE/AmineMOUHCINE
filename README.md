@@ -193,9 +193,8 @@ The results from the different analysis modules are combined through a segmentat
 
 ### Project Preview
 
-![NeuroSentiment Dashboard](images/neurosentiment-dashboard.png)
+![NeuroSentiment Dashboard](neurosentiment-dashboard.png)
 
-![NeuroSentiment Analysis](images/neurosentiment-analysis.png)
 
 **Technologies:**
 
